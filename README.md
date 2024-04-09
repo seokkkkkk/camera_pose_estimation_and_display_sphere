@@ -12,3 +12,4 @@ After camera calibration. The sphere will be displayed in the image.
 Use ESC to end the program.
 
 ## 3. Example result
+<img width="609" alt="image" src="https://github.com/seokkkkkk/camera_pose_estimation_and_display_sphere/assets/66684504/576774ab-2059-4b37-b07d-c7fd30336db7">
